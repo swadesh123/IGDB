@@ -7,10 +7,10 @@ import mysql.connector
 
 
 mydb = mysql.connector.connect(
-  user="sql5403007",
-  password="3CaWiJcpI5",
-  host="sql5.freemysqlhosting.net",
-  database="sql5403007"
+  user="swadesh",
+  password="catProgrammer73",
+  host="localhost",
+  database="capstone_db"
 )
 mycursor = mydb.cursor()
 
